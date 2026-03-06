@@ -167,7 +167,7 @@ Test Results: 61 passed, 0 failed, 0 skipped
 
 ## Prerequisites
 
-- .NET 10 SDK (preview)
+- .NET 10 SDK
 - Xcode or Xcode-beta (for iOS bindings)
 - MAUI workloads: `dotnet workload install maui-ios maui-android`
 - `gh` CLI (for fetching iOS artifacts from GitHub releases)
